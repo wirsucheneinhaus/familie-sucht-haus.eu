@@ -53,13 +53,12 @@ Hessen und die Pfalz kommen für uns wegen Danielas Gebundenheit an ihre Diensts
 
 # Warum an uns verkaufen?
 
-- Mit uns sparen Sie sich die Maklerprovision. (Ab dem 23.12.2020 gibt es ein neues Gesetz, welches Immobilienverkäufer verpflichtet eine anfallende Maklercourtage midestens zur Hälfte zu zahlen. [Siehe hier](https://www.haufe.de/immobilien/wirtschaft-politik/maklerrecht-doch-kein-bestellerprinzip-fuer-immobilienkauf_84342_500542.html).)
+- Mit uns sparen Sie sich die Maklerprovision. (Ab dem 23.12.2020 gibt es ein neues Gesetz, welches Immobilienverkäufer verpflichtet eine anfallende Maklercourtage mindestens zur Hälfte zu zahlen. [Siehe hier](https://www.haufe.de/immobilien/wirtschaft-politik/maklerrecht-doch-kein-bestellerprinzip-fuer-immobilienkauf_84342_500542.html).)
 - Sie wissen schon vorher, wer Ihr Haus besichtigen und kaufen möchte.
 - Sie können sich darauf verlassen, dass Ihr Haus in gute Hände übergeht und gepflegt wird.
-- Wir sind keine Investoren und besitzen keine Immobilien.
-- Wir wollen das Haus für uns selbst nutzen.
+- Wir sind keine Investoren, besitzen keine Immobilien und wollen das Haus selbst bewohnen.
 - Wir sind diskret und Sie müssen Ihr Haus nicht im Internet inserieren.
-- Wir sind bereit, den marktüblichen Preis für Ihr Haus zu zahlen.
+- Wir sind gerne bereit, den marktüblichen Preis für Ihr Haus zu zahlen und garantieren für eine unkomplizierte und zügige Abwicklung.
 
 # Finderlohn
 

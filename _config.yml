@@ -2,10 +2,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 title: familie-sucht-haus.eu
 email: admin@familie-sucht-haus.eu
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://familie-sucht-haus.eu" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -20,7 +16,7 @@ plugins:
 # Site Author
 author:
   name             : "Daniela & Björn Woppmann"
-  avatar           : "/assets/images/beide2.jpg"
+  avatar           : "/assets/images/beide.jpg"
   bio              : "suchen ein Haus in Mannheim. Sie haben einen Hinweis? Bitte kontaktieren Sie uns:"
   location         : "Tel: 0621/4834382"
   email            : "hinweis@familie-sucht-haus.eu"
