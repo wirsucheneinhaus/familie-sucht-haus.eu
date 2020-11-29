@@ -12,7 +12,7 @@ header:
 feature_row:
   - image_path: /assets/images/dani.jpg
     alt: "Daniela"
-    excerpt: "**Daniela** ist eine Sonderschullehrerin in Mannheim; begeisterte Hobbybäckerin und -köchin, liebt Musik, spielt in einem Orchester und hätte gerne einen kleinen Garten mit Beeren-sträuchern und Gemüse."
+    excerpt: "**Daniela** ist eine Sonderschullehrerin in Mannheim; begeisterte Hobbybäckerin und -köchin, liebt Musik, spielt in einem Orchester und hätte gerne einen kleinen Garten mit Beeren und Gemüse."
   - image_path: /assets/images/nora.jpg
     alt: "Nora"
     excerpt: "**Nora** ist ein supersüßes Baby. Wächst fleiißig, liebt Bäume und Lichter, steckt sich gerne Dinge in den Mund und erzählt viel: *Öröö, Oooooh, Hapööö*. Wünscht sich einen kleinen Sandkasten im Garten."
@@ -27,7 +27,7 @@ feature_row:
 
 Wir sind das Ehepaar Daniela und Björn Woppmann und wohnen aktuell zur Miete in der Mannheimer Innenstadt. Seit der Geburt unserer Tochter Nora im Sommer 2020 sind wir zu dritt. Leider ist unsere aktuelle Wohnung für unsere wachsende Familie bald nicht mehr geeignet. Daher sind wir nun schon seit längerem auf der Suche nach einem passenden Haus mit mehr Platz in einer familienfreundlichen Gegend in Mannheim und Umgebung.
 
-Wir würden uns für unser neues Zuhause wünschen, dass wir das Auto möglichst wenig benutzen müssen und mit unseren Fahrrädern gut zur Arbeit, zur KiTa/Kindergarten und zum Einkaufen radeln können. Die Nähe zur RNV Linie 5 und/oder einen Bahnhof würden wir auch sehr schätzen.
+Wir würden uns für unser neues Zuhause wünschen, dass wir das Auto möglichst wenig benutzen müssen und mit unseren Fahrrädern gut zur Arbeit, zur KiTa/Kindergarten und zum Einkaufen fahren können. Die Nähe zur RNV Linie 5 und/oder einen Bahnhof würden wir auch sehr schätzen.
 
 Wir sind naturverbundene Menschen und wünschen uns einen eigenen Garten. Wir würden uns nicht scheuen uns die Finger schmutzig zu machen; daher kommen für uns sowohl renovierungsbedürftige als auch renovierte oder neuwertige Häuser in Frage.
 
