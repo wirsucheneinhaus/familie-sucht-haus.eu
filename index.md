@@ -12,24 +12,24 @@ header:
 feature_row:
   - image_path: /assets/images/dani.jpg
     alt: "Daniela"
-    excerpt: "**Daniela** ist eine verbeamtete Sonderschullehrerin in der Neckarstadt; begeisterte Hobbybäckerin und -köchin, spielt Klavier und Cello, liebt Musik und hätte gerne einen kleinen Garten mit Beeren und Gemüse."
+    excerpt: "**Daniela** ist eine Sonderschullehrerin in Mannheim; begeisterte Hobbybäckerin und -köchin, liebt Musik, spielt in einem Orchester und hätte gerne einen kleinen Garten mit Beeren und Gemüse."
   - image_path: /assets/images/nora.jpg
     alt: "Nora"
     excerpt: "**Nora** ist ein supersüßes Baby. Isst viel, liebt Bäume und Lichter, steckt sich gerne Dinge in den Mund und erzählt viel: *Öröö, Oooooh, Hapööö*. Wünscht sich einen kleinen Sandkasten im Garten."
   - image_path: /assets/images/bjoern.jpg
     alt: "Björn"
-    excerpt: "**Björn** ist Software-Produktmanager bei SAP; fährt sehr gerne Fahrrad und schraubt gerne an Fahrrädern herum; Hobby-Bastler. Er wünscht sich eine Werkstatt und würde sich gerne in der Zukunft als *Hausmeister* betätigen."
+    excerpt: "**Björn** ist Software-Entwickler bei SAP; fährt gerne Fahrrad und schraubt an Fahrrädern herum. Wünscht sich eine Werkstatt und würde sich gerne in der Zukunft als *Hausmeister* betätigen."
 ---
 
 # Über uns
 
 {% include feature_row %}
 
-Hallo, wir sind Daniela und Björn. Seit der Geburt unserer Tochter Nora in diesem Sommer sind wir zu dritt. Leider ist unsere aktuelle Wohnung für unsere wachsende Familie bald nicht mehr geeignet. Daher sind wir nun schon seit längerem auf der Suche nach einem passenden Haus in einer familienfreundlichen Gegend in Mannheim und Umgebung.
+Wir sind das Ehepaar Daniela und Björn Woppmann und wohnen aktuell zur Miete in der Mannheimer Innenstadt. Seit der Geburt unserer Tochter Nora im Sommer 2020 sind wir zu dritt. Leider ist unsere aktuelle Wohnung für unsere wachsende Familie bald nicht mehr geeignet. Daher sind wir nun schon seit längerem auf der Suche nach einem passenden Haus mit mehr Platz in einer familienfreundlichen Gegend in Mannheim und Umgebung.
 
-Uns ist es wichtig, möglichst wenig das Auto zu benutzen. Wir wünschen uns, dass wir mit unseren Fahrrädern zur Arbeit zu fahren und auch die Wege im Alltag zur KiTa/Kindergarten und zum Einkaufen ohne Auto zurücklegen können. Die Nähe zur RNV Linie 5 und/oder einen Bahnhof würden wir daher schätzen.
+Wir würden uns für unser neues Zuhause wünschen, dass wir das Auto möglichst wenig benutzen müssen und mit unseren Fahrrädern gut zur Arbeit, zur KiTa/Kindergarten und zum Einkaufen radeln können. Die Nähe zur RNV Linie 5 und/oder einen Bahnhof würden wir auch sehr schätzen.
 
-Wir sind naturverbundene Menschen und wünschen uns einen eigenen Garten. Für uns kommen sowohl renovierungsbedürftige als auch renovierte oder neuwertige Häuser in Frage.
+Wir sind naturverbundene Menschen und wünschen uns einen eigenen Garten. Wir sind ambitionierte Hobbyhandwerker und scheuen uns nicht die Finger schmutzig zu machen; daher kommen für uns sowohl renovierungsbedürftige als auch renovierte oder neuwertige Häuser in Frage.
 
 # Was suchen wir?
 
@@ -45,9 +45,10 @@ Wir sind naturverbundene Menschen und wünschen uns einen eigenen Garten. Für u
 
 Die folgenden Stadtteile oder Orte würden wir bevorzugen, aber wir sind für jegliche Hinweise dankbar. 
  
-| Seckenheim | Feudenheim | Käfertal     | Lindenhof  | Almenhof   | Wallstadt|
-| Neuostheim | Niederfeld | Neuhermsheim | Suebenheim | Ilvesheim  | Weinheim |
-| Ladenburg  | Heddesheim | Friesdrichsfeld | Edingen | Neckarhausen |
+| Seckenheim | Feudenheim   | Käfertal     | Lindenhof    | Almenhof        |
+| Wallstadt  | Neuostheim   | Niederfeld   | Neuhermsheim | Suebenheim      |
+| Ilvesheim  | Weinheim     | Ladenburg    | Heddesheim   | Friesdrichsfeld | 
+| Edingen    | Neckarhausen |              |              |                 |
 
 Hessen und die Pfalz kommen für uns wegen Danielas Gebundenheit an ihre Dienststelle leider nicht in Frage.
 
@@ -62,10 +63,10 @@ Hessen und die Pfalz kommen für uns wegen Danielas Gebundenheit an ihre Diensts
 
 # Finderlohn
 
-Wir sind gerne bereit eine Belohnung in der Höhe von 3000€ zu zahlen, für den Fall, dass Sie uns einen Hinweis auf ein zu verkaufendes Objekt geben und wir uns mit den Verkäufern einig werden. Eine Abwicklung über Immobilienmakler wünschen wir nicht. 
+Wir sind gerne bereit einen großzügigen Finderlohn zu zahlen, für den Fall, dass Sie uns einen Hinweis auf ein zu verkaufendes Objekt geben und wir uns mit den Verkäufern einig werden. Eine Abwicklung über Immobilienmakler wünschen wir nicht. 
 
 # Kontaktieren Sie uns!
 
 Wir sind am besten erreichbar unter:<br>
-Telefon: <a href="tel:+496214834382">0621-4834382</a><br>
+Telefon: <a href="tel:06214834382">0621-4834382</a><br>
 E-Mail: <a href="mailto:hinweis@familie-sucht-haus.eu">hinweis@familie-sucht-haus.eu</a>

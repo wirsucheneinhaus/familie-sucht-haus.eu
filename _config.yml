@@ -18,7 +18,7 @@ author:
   name             : "Daniela & Björn Woppmann"
   avatar           : "/assets/images/beide.jpg"
   bio              : "suchen ein Haus in Mannheim. Sie haben einen Hinweis? Bitte kontaktieren Sie uns:"
-  location         : "Tel: 0621/4834382"
+  location         : "Telefon:&nbsp;<a href=tel:06214834382>0621/4834382</a>"
   email            : "hinweis@familie-sucht-haus.eu"
 
 include:
