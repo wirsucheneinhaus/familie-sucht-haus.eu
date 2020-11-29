@@ -45,10 +45,10 @@ Wir sind naturverbundene Menschen und wünschen uns einen eigenen Garten. Wir si
 
 Die folgenden Stadtteile oder Orte würden wir bevorzugen, aber wir sind für jegliche Hinweise dankbar. 
  
-| Seckenheim | Feudenheim   | Käfertal     | Lindenhof    | Almenhof        |
-| Wallstadt  | Neuostheim   | Niederfeld   | Neuhermsheim | Suebenheim      |
-| Ilvesheim  | Weinheim     | Ladenburg    | Heddesheim   | Friesdrichsfeld | 
-| Edingen    | Neckarhausen |              |              |                 |
+| Seckenheim   | Feudenheim      | Käfertal   | Lindenhof    |
+| Almenhof     | Niederfeld      | Neuostheim | Wallstadt    |
+| Neuhermsheim | Ilvesheim       | Weinheim   | Ladenburg    |
+| Heddesheim   | Friesdrichsfeld | Edingen    | Neckarhausen |
 
 Hessen und die Pfalz kommen für uns wegen Danielas Gebundenheit an ihre Dienststelle leider nicht in Frage.
 
