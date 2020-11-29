@@ -15,7 +15,7 @@ feature_row:
     excerpt: "**Daniela** ist eine Sonderschullehrerin in Mannheim; begeisterte Hobbybäckerin und -köchin, liebt Musik, spielt in einem Orchester und hätte gerne einen kleinen Garten mit Beeren und Gemüse."
   - image_path: /assets/images/nora.jpg
     alt: "Nora"
-    excerpt: "**Nora** ist ein supersüßes Baby. Isst viel, liebt Bäume und Lichter, steckt sich gerne Dinge in den Mund und erzählt viel: *Öröö, Oooooh, Hapööö*. Wünscht sich einen kleinen Sandkasten im Garten."
+    excerpt: "**Nora** ist ein supersüßes Baby. Wächst fleiißig, liebt Bäume und Lichter, steckt sich gerne Dinge in den Mund und erzählt viel: *Öröö, Oooooh, Hapööö*. Wünscht sich einen kleinen Sandkasten im Garten."
   - image_path: /assets/images/bjoern.jpg
     alt: "Björn"
     excerpt: "**Björn** ist Software-Entwickler bei SAP; fährt gerne Fahrrad und schraubt an Fahrrädern herum. Wünscht sich eine Werkstatt und würde sich gerne in der Zukunft als *Hausmeister* betätigen."
@@ -29,7 +29,7 @@ Wir sind das Ehepaar Daniela und Björn Woppmann und wohnen aktuell zur Miete in
 
 Wir würden uns für unser neues Zuhause wünschen, dass wir das Auto möglichst wenig benutzen müssen und mit unseren Fahrrädern gut zur Arbeit, zur KiTa/Kindergarten und zum Einkaufen radeln können. Die Nähe zur RNV Linie 5 und/oder einen Bahnhof würden wir auch sehr schätzen.
 
-Wir sind naturverbundene Menschen und wünschen uns einen eigenen Garten. Wir sind ambitionierte Hobbyhandwerker und scheuen uns nicht die Finger schmutzig zu machen; daher kommen für uns sowohl renovierungsbedürftige als auch renovierte oder neuwertige Häuser in Frage.
+Wir sind naturverbundene Menschen und wünschen uns einen eigenen Garten. Wir würden uns nicht scheuen uns die Finger schmutzig zu machen; daher kommen für uns sowohl renovierungsbedürftige als auch renovierte oder neuwertige Häuser in Frage.
 
 # Was suchen wir?
 
@@ -50,7 +50,7 @@ Die folgenden Stadtteile oder Orte würden wir bevorzugen, aber wir sind für je
 | Neuhermsheim | Ilvesheim       | Weinheim   | Ladenburg    |
 | Heddesheim   | Friesdrichsfeld | Edingen    | Neckarhausen |
 
-Hessen und die Pfalz kommen für uns wegen Danielas Gebundenheit an ihre Dienststelle leider nicht in Frage.
+Hessen und die Pfalz kommen für uns leider nicht in Frage, da wegen Daniela an ihre Dienststelle gebunden ist.
 
 # Warum an uns verkaufen?
 
