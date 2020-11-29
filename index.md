@@ -12,7 +12,7 @@ header:
 feature_row:
   - image_path: /assets/images/dani.jpg
     alt: "Daniela"
-    excerpt: "**Daniela** ist eine Sonderschullehrerin in Mannheim; begeisterte Hobbybäckerin und -köchin, liebt Musik, spielt in einem Orchester und hätte gerne einen kleinen Garten mit Beeren und Gemüse."
+    excerpt: "**Daniela** ist eine Sonderschullehrerin in Mannheim; begeisterte Hobbybäckerin und -köchin, liebt Musik, spielt in einem Orchester und hätte gerne einen kleinen Garten mit Beeren-sträuchern und Gemüse."
   - image_path: /assets/images/nora.jpg
     alt: "Nora"
     excerpt: "**Nora** ist ein supersüßes Baby. Wächst fleiißig, liebt Bäume und Lichter, steckt sich gerne Dinge in den Mund und erzählt viel: *Öröö, Oooooh, Hapööö*. Wünscht sich einen kleinen Sandkasten im Garten."
@@ -50,11 +50,12 @@ Die folgenden Stadtteile oder Orte würden wir bevorzugen, aber wir sind für je
 | Neuhermsheim | Ilvesheim       | Weinheim   | Ladenburg    |
 | Heddesheim   | Friesdrichsfeld | Edingen    | Neckarhausen |
 
-Hessen und die Pfalz kommen für uns leider nicht in Frage, da wegen Daniela an ihre Dienststelle gebunden ist.
+Hessen und die Pfalz kommen für uns leider nicht in Frage, da Daniela an ihre Dienststelle in Mannheim gebunden ist.
 
 # Warum an uns verkaufen?
 
-- Mit uns sparen Sie sich die Maklerprovision. (Ab dem 23.12.2020 gibt es ein neues Gesetz, welches Immobilienverkäufer verpflichtet eine anfallende Maklercourtage mindestens zur Hälfte zu zahlen. [Siehe hier](https://www.haufe.de/immobilien/wirtschaft-politik/maklerrecht-doch-kein-bestellerprinzip-fuer-immobilienkauf_84342_500542.html).)
+- Mit uns sparen Sie sich die Maklerprovision.<br>
+  *Ab dem 23.12.2020 gibt es ein neues Gesetz, welches Immobilienverkäufer verpflichtet eine anfallende Maklercourtage mindestens zur Hälfte zu zahlen; [siehe hier](https://www.haufe.de/immobilien/wirtschaft-politik/maklerrecht-doch-kein-bestellerprinzip-fuer-immobilienkauf_84342_500542.html).*
 - Sie wissen schon vorher, wer Ihr Haus besichtigen und kaufen möchte.
 - Sie können sich darauf verlassen, dass Ihr Haus in gute Hände übergeht und gepflegt wird.
 - Wir sind keine Investoren, besitzen keine Immobilien und wollen das Haus selbst bewohnen.
