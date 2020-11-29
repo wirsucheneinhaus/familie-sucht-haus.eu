@@ -69,4 +69,4 @@ Wir sind gerne bereit eine Belohnung in der Höhe von 3000€ zu zahlen, für de
 
 Wir sind am besten erreichbar unter:<br>
 Telefon: <a href="tel:+496214834382">0621-4834382</a><br>
-E-Mail: <a href="hinweis@familie-sucht-haus.eu">hinweis@familie-sucht-haus.eu</a>
+E-Mail: <a href="mailto:hinweis@familie-sucht-haus.eu">hinweis@familie-sucht-haus.eu</a>
