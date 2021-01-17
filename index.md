@@ -15,7 +15,7 @@ feature_row:
     excerpt: "**Daniela** ist eine Sonderschullehrerin in Mannheim; begeisterte Hobbybäckerin und -köchin, liebt Musik, spielt in einem Orchester und hätte gerne einen kleinen Garten mit Beeren und Gemüse."
   - image_path: /assets/images/nora.jpg
     alt: "Nora"
-    excerpt: "**Nora** ist ein supersüßes Baby. Wächst fleiißig, liebt Bäume und Lichter, steckt sich gerne Dinge in den Mund und erzählt viel: *Öröö, Oooooh, Hapööö*. Wünscht sich einen kleinen Sandkasten im Garten."
+    excerpt: "**Nora** ist ein supersüßes Baby. Isst fleißig, liebt Bäume und Lichter, steckt sich gerne Dinge in den Mund und erzählt viel: *Öröö, Oooooh, Hapööö*. Wünscht sich einen kleinen Sandkasten im Garten."
   - image_path: /assets/images/bjoern.jpg
     alt: "Björn"
     excerpt: "**Björn** ist Software-Entwickler bei SAP; fährt gerne Fahrrad und schraubt an Fahrrädern herum. Wünscht sich eine Werkstatt und würde sich gerne in der Zukunft als *Hausmeister* betätigen."
