@@ -18,7 +18,7 @@ feature_row:
     excerpt: "**Nora** ist ein supersüßes Baby. Isst fleißig, liebt Bäume und Lichter, steckt sich gerne Dinge in den Mund und erzählt viel: *Öröö, Oooooh, Hapööö*. Wünscht sich einen kleinen Sandkasten im Garten."
   - image_path: /assets/images/bjoern.jpg
     alt: "Björn"
-    excerpt: "**Björn** ist Software-Entwickler bei SAP; fährt gerne Fahrrad und schraubt an Fahrrädern herum. Wünscht sich eine Werkstatt und würde sich gerne in der Zukunft als *Hausmeister* betätigen."
+    excerpt: "**Björn** ist Nachhaltig-keits-Produktmanager bei SAP; fährt gerne Fahrrad und schraubt an Fahrrädern herum. Wünscht sich eine Werkstatt und würde sich gerne in der Zukunft als *Hausmeister* betätigen."
 ---
 
 # Über uns
