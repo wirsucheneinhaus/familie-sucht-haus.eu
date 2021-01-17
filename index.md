@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 title: Familie sucht Haus in Mannheim
-excerpt: "Unsere kleine Familie sucht ein Haus, Doppelhaushälfte, Reihenendhaus oder Baugrundstück mit kleinem Garten in Mannheim und Umgebung."
+excerpt: "Unsere kleine Familie sucht ein Haus, Doppelhaushälfte, Reihenendhaus, Etagenwohnung oder Baugrundstück mit kleinem Garten in Mannheim und Umgebung."
 toc: true
 toc_sticky: true
 toc_label: "Seiteninhalt"
@@ -55,19 +55,21 @@ Hessen und die Pfalz kommen für uns leider nicht in Frage, da Daniela an ihre D
 # Warum an uns verkaufen?
 
 - Mit uns sparen Sie sich die Maklerprovision.<br>
-  *Ab dem 23.12.2020 gibt es ein neues Gesetz, welches Immobilienverkäufer verpflichtet eine anfallende Maklercourtage mindestens zur Hälfte zu zahlen; [siehe hier](https://www.haufe.de/immobilien/wirtschaft-politik/maklerrecht-doch-kein-bestellerprinzip-fuer-immobilienkauf_84342_500542.html).*
+  *Seit dem 23.12.2020 gilt es ein neues Gesetz, welches Immobilienverkäufer verpflichtet eine anfallende Maklercourtage mindestens zur Hälfte zu zahlen; [siehe hier](https://www.haufe.de/immobilien/wirtschaft-politik/maklerrecht-doch-kein-bestellerprinzip-fuer-immobilienkauf_84342_500542.html).*
 - Sie wissen schon vorher, wer Ihr Haus besichtigen und kaufen möchte.
 - Sie können sich darauf verlassen, dass Ihr Haus in gute Hände übergeht und gepflegt wird.
 - Wir sind keine Investoren, besitzen keine Immobilien und wollen das Haus selbst bewohnen.
 - Wir sind diskret und Sie müssen Ihr Haus nicht im Internet inserieren.
 - Wir sind gerne bereit, den marktüblichen Preis für Ihr Haus zu zahlen und garantieren für eine unkomplizierte und zügige Abwicklung.
 
+<!---
 # Finderlohn
 
-Wir sind gerne bereit einen großzügigen Finderlohn zu zahlen, für den Fall, dass Sie uns einen Hinweis auf ein zu verkaufendes Objekt geben und wir uns mit den Verkäufern einig werden. Eine Abwicklung über Immobilienmakler wünschen wir nicht. 
+Wir sind gerne bereit einen großzügigen Finderlohn zu zahlen, für den Fall, dass Sie uns einen Hinweis auf ein zu verkaufendes Objekt geben und wir uns mit den Verkäufern einig werden. Eine Abwicklung über Immobilienmakler wünschen wir nicht.
+--->
 
 # Kontaktieren Sie uns!
 
-Wir sind am besten erreichbar unter:<br>
+Wir sind erreichbar unter:<br>
 Telefon: <a href="tel:06214834382">0621-4834382</a><br>
 E-Mail: <a href="mailto:hinweis@familie-sucht-haus.eu">hinweis@familie-sucht-haus.eu</a>
