@@ -37,7 +37,7 @@ Wir sind naturverbundene Menschen und w체nschen uns einen eigenen Garten. Wir w�
 -	Doppelhaush채lfte
 -	Reihenendhaus
 -	Baugrundst체ck
--	ab 5 Zimmer (Kinderzimmer + Arbeitszimmer mit 2 Arbeitspl채tzen + Platz f체r ein weiteres Kind)
+-	idealerweise 5 Zimmer *(Kinderzimmer + Arbeitszimmer mit 2 Arbeitspl채tzen + Platz f체r ein weiteres Kind)*
 -	saniert oder renovierungsbed체rftig
 -	mit Garten
 
